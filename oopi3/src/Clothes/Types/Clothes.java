@@ -3,7 +3,7 @@ import Clothes.Size;
 import Clothes.Color;
 
 public abstract class Clothes {
-    Size size;
-    Double cost;
-    Color color;
+    public Size size;
+    public Double cost;
+    public Color color;
 }

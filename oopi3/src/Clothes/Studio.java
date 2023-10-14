@@ -10,12 +10,18 @@ public class Studio {
 
     public double dressMan(List<Clothes> clothesList)
     {
-
+        for(int i=0; i<clothesList.size();i++)
+        {
+            System.out.println(clothesList.get(i).size+" "+clothesList.get(i).color+" "+clothesList.get(i).cost);
+        }
     }
 
     public double dressWoman(List<Clothes> clothesList)
     {
-
+        for(int i=0; i<clothesList.size();i++)
+        {
+            System.out.println(clothesList.get(i).size+" "+clothesList.get(i).color+" "+clothesList.get(i).cost);
+        }
     }
 
 

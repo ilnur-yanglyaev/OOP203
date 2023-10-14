@@ -1,6 +1,11 @@
 package Clothes.Types;
 
-import Clothes.Types.Clothes;
+import Clothes.MenClothes;
 
-public class Tie extends Clothes {
+public class Tie extends Clothes implements MenClothes  {
+    @Override
+    public void dressMan() {
+
+    }
+
 }
