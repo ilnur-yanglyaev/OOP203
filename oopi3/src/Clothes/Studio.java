@@ -1,27 +1,27 @@
 package Clothes;
-
 import Clothes.Types.Clothes;
 
-import java.util.List;
-
 public class Studio {
-    //todo  методы одетьЖенщину, одетьМужчину, на вход
-    //которых будет поступать массив, содержащий все типы одежды.
-
-    public double dressMan(List<Clothes> clothesList)
+    public void dressMan(Clothes[] clothesList)
     {
-        for(int i=0; i<clothesList.size();i++)
+        System.out.println("Одежда для женщин:");
+        for(int i=0; i<clothesList.length;i++)
         {
-            System.out.println(clothesList.get(i).size+" "+clothesList.get(i).color+" "+clothesList.get(i).cost);
-        }
+            if (clothesList[i] instanceof WomenClothes) {
+               ((WomenClothes) clothesList[i]).dressWoman();
+              }
+        } System.out.println();
     }
 
-    public double dressWoman(List<Clothes> clothesList)
+    public void dressWoman(Clothes[] clothesList)
     {
-        for(int i=0; i<clothesList.size();i++)
+        System.out.println("Одежда для мужчин:");
+        for(int i=0; i<clothesList.length;i++)
         {
-            System.out.println(clothesList.get(i).size+" "+clothesList.get(i).color+" "+clothesList.get(i).cost);
-        }
+            if (clothesList[i] instanceof MenClothes) {
+               ((MenClothes) clothesList[i]).dressMan();
+            }
+        }System.out.println();
     }
 
 
