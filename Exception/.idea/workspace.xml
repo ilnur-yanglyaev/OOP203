@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb947f65-c7e5-4190-a9a9-05f46941b061" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Patterns/Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Adapter/AmericanMeasurementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Adapter/AmericanMeasurementSystemAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Adapter/AmericanMetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Adapter/InternationalMeasurementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Adapter/InternationalMeasurementSystemAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Adapter/InternationalMetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Factory/MSU_students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Factory/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Factory/StudentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Proxy/RealTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Proxy/TableProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Proxy/TableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/Singleton/Sky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopi 7 Generic/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopi 7 Generic/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopi 7 Generic/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopi 7 Generic/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/oopi 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/out/production/oopi 4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/out/production/oopi 4/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/out/production/oopi 4/resource/tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/src/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 4 Exceptions/src/resource/tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 7 Generic/out/production/oopi 7 Generic/CookableAnonInClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oopi 7 Generic/out/production/oopi 7 Generic/CookableAnonInClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 7 Generic/out/production/oopi 7 Generic/Food$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oopi 7 Generic/out/production/oopi 7 Generic/Food$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopi 7 Generic/out/production/oopi 7 Generic/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oopi 7 Generic/out/production/oopi 7 Generic/Food.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WzMTxTczX5S240Cz67hjtPypgA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/OOP203/oopi 4 Exception",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lib" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LexemeBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LexemeBuffer" />
+      <module name="nf3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="oopi 4 Exception" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LexemeBuffer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb947f65-c7e5-4190-a9a9-05f46941b061" name="Changes" comment="" />
+      <created>1697730967127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697730967127</updated>
+    </task>
+    <servers />
+  </component>
+</project>
